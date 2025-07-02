@@ -85,31 +85,17 @@
       }
     },
     {
-      "id": "7",
-      "title": "React Student",
+      "id": "f797",
+      "title": "React Intenr",
       "type": "Internship",
-      "description": "Join our team as an Intern React Developer to get more skills and experience .",
-      "location": "Colombo, Sri Lanka",
-      "salary": "Unpaid",
-      "company": {
-        "name": "Coeus Co",
-        "description": "Coeus Co is an event management platform. We are the leaders in this industry",
-        "contactEmail": "contact@coeus.com",
-        "contactPhone": "555-555-5554"
-      }
-    },
-    {
-      "id": "0a86",
-      "title": "Test Job 1",
-      "type": "Remote",
-      "location": "Dehiwa;a",
-      "description": "This is an API test",
+      "location": "COlombo",
+      "description": "Intenr",
       "salary": "Under $50K",
       "company": {
-        "name": "Jmiki Kamal",
-        "description": "Supiri place eka",
-        "contactEmail": "alien@foumi.cor",
-        "contactPhone": "555555555"
+        "name": "Coeus",
+        "description": "Test",
+        "contactEmail": "abc@def.ghi",
+        "contactPhone": "123456789"
       }
     }
   ]

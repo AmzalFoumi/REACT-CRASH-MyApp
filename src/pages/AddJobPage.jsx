@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { toast } from "react-toastify";
 
 const AddJobPage = ({ addJobSubmit }) => {
   const [title, setTitle] = useState("");
@@ -32,6 +33,8 @@ const AddJobPage = ({ addJobSubmit }) => {
 
     //This function is written in app.jsx and passed as a prop to this page component
     addJobSubmit(newJob);
+
+    toast.success("Job added succesfully");
 
     return navigate("/jobs");
   };
