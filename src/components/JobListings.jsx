@@ -26,7 +26,7 @@ const JobListings = ({ isHome = false }) => {
     fetchJobs();
   }, []);
 
-  console.log(jobs);
+  // console.log(jobs);
   return (
     <>
       {/* <!-- Browse Jobs --> */}

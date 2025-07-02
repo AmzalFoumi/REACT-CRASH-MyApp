@@ -1,4 +1,5 @@
-{"jobs":[
+{
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -93,8 +94,23 @@
       "company": {
         "name": "Coeus Co",
         "description": "Coeus Co is an event management platform. We are the leaders in this industry",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
+        "contactEmail": "contact@coeus.com",
+        "contactPhone": "555-555-5554"
+      }
+    },
+    {
+      "id": "0a86",
+      "title": "Test Job 1",
+      "type": "Remote",
+      "location": "Dehiwa;a",
+      "description": "This is an API test",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Jmiki Kamal",
+        "description": "Supiri place eka",
+        "contactEmail": "alien@foumi.cor",
+        "contactPhone": "555555555"
       }
     }
-  ]}
+  ]
+}
