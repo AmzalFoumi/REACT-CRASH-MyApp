@@ -86,16 +86,16 @@
     },
     {
       "id": "f797",
-      "title": "React Intenr",
+      "title": "React Intern",
       "type": "Internship",
-      "location": "COlombo",
-      "description": "Intenr",
-      "salary": "Under $50K",
+      "location": "Colombo",
+      "description": "Intern Edit test",
+      "salary": "$175K - 200K",
       "company": {
         "name": "Coeus",
         "description": "Test",
         "contactEmail": "abc@def.ghi",
-        "contactPhone": "123456789"
+        "contactPhone": "1234567890"
       }
     }
   ]

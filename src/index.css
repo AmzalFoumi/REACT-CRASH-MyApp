@@ -9,8 +9,7 @@
 
 @layer utilities {
   .grid-cols-70-30 {
+    display: grid;
     grid-template-columns: 70% 28%;
   }
 }
-
-
